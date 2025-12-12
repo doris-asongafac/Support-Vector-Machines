@@ -1,2 +1,3 @@
-# Doris_labs
-In this lab, we'll use the SVC module from the sklearn.svm package to demonstrate the support vector classifier and SVM
+# Doris Mbitazi
+Data Analyst specializing in Python-based analytics and machine learning.
+All projects here are built in Python.
